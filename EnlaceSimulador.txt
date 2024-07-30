@@ -1,2 +1,0 @@
-Enlace repositorio modelo simulador
-https://github.com/Leonardov7/YoloModelDistance/blob/master/YoloV8ObjectDetection.ipynb
